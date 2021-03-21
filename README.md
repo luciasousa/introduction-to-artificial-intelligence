@@ -1,3 +1,4 @@
 # introduction-to-artificial-intelligence
 Two individual tests and a group project for IIA w/ Rodrigo Martins and Raquel Pinto.
-<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:59.72%;position:relative;"><iframe width="360" height="215" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/52lojn"></iframe></div><p><a href="https://imgflip.com/gif/52lojn">via Imgflip</a></p></div>
+
+<a href="https://imgflip.com/gif/52lojn"><img src="https://imgflip.com/gif/52lojn"></a>
